@@ -5,7 +5,7 @@ wh = 2000
 img  = Image.new( mode = "RGB", size = (wh, wh) )
 a = False
 
-FilePath = "/home/ssam/Documents/misc/place/2022_place_canvas_history.csv"
+FilePath = ""
 UserID = ""
 
 with open(FilePath) as file:
